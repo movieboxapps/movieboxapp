@@ -18,3 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/c3d8a05f-62b0-41b8-a0cf-2bff9
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Deployment
+
+This website is automatically deployed to GitHub Pages using GitHub Actions:
+- Live Link: https://movieboxapps.github.io/movieboxapp/
+
